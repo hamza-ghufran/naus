@@ -1,0 +1,3 @@
+function kallos(){}
+
+function kakos(){}
