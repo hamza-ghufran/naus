@@ -5,15 +5,15 @@ describe('Test', () => {
   test('Test a and b', () => {
     expect(a).toEqual(b);
   });
-});
 
-describe('Test 2', () => {
   test('Test a and b', () => {
     expect(b).toEqual(a);
   });
-});
 
-describe('Test 3', () => {
+  test('Test a and b', () => {
+    expect(b).toEqual(a);
+  });
+  
   test('Test a and b', () => {
     expect(b).toEqual(a);
   });
