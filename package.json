@@ -1,0 +1,31 @@
+{
+  "name": "naus",
+  "version": "1.0.0",
+  "description": "Random Pr submissions with reviews and comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "set NODE_ENV=test && jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza-ghufran/naus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza-ghufran/naus/issues"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "testMatch": [
+      "**/test/**/*.test.js"
+    ],
+    "moduleFileExtensions": [
+      "js"
+    ]
+  },
+  "homepage": "https://github.com/hamza-ghufran/naus#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
