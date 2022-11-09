@@ -1,7 +1,9 @@
-function kallos(){}
+function kallos() { }
 
-function kakos(){}
+function kakos() { }
 
-function entende(){}
+function entende() { }
 
-function pneuma(){}
+function pneuma() { }
+
+function bolstered() { }
