@@ -1,3 +1,5 @@
-function kallos(){}
+function kallos() { }
 
-function kakos(){}
+function kakos() { }
+
+function psychopathy() { }
